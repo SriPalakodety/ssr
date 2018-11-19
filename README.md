@@ -1,1 +1,1 @@
-"# ssr" 
+SSR template
